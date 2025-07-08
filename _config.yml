@@ -1,7 +1,8 @@
-theme: minima
-title: Blog do Eduardo Genes
+theme: jekyll-theme-minimal
+title: Blog edugenes.dev
 description: Dicas de programação, cloud, esportes e um pouco da vida real!
 author: eduardogenes
+logo: /assets/img/logo.png
 
 email: eduardogenes95@email.com
 twitter_username: genespontodev
